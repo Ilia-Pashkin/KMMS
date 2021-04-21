@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\hw01_01.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\hw01_01.dir/objects.a @CMakeFiles\hw01_01.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  -std=c++11 -fopenmp -g -Wl,--whole-archive CMakeFiles\hw01_01.dir/objects.a -Wl,--no-whole-archive -o hw01_01.exe -Wl,--out-implib,libhw01_01.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\hw01_01.dir\linklibs.rsp
